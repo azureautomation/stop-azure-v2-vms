@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 87462,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-azure-v2-vms/master/StopAzureV2Vm.graphrunbook",
+    "DownloadCount": 106652,
+    "Id": "Stop-Azure-ARM-VMs-1ba96d5b",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 3,
+    "RaterCount": 25,
+    "Rating": 4.3,
+    "ReleaseDate": "2016-1-7T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "This Graphical PowerShell runbook connects to Azure using an Automation Run As account and stops all V2 VMs in an Azure subscription or in a resource group or a single named V2 VM.  You can attach a recurring schedule to this runbook to run it at a specific time.",
+    "Title": "Stop Azure V2 VMs",
+    "UpdatedDate": "2016-10-23T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-azure-v2-vms",
+    "UserTags": "Azure Virtual Machines, Stop VM, GraphicalPS"
+}
