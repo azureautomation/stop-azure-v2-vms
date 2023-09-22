@@ -5,7 +5,7 @@
 
 DESCRIPTION
 
-This runbook connects to Azure using system assigned identity and starts all V2 VMs in an Azure subscription or resource group or a single named V2 VM.
+This runbook connects to Azure using system assigned identity and stops all V2 VMs in an Azure subscription or resource group or a single named V2 VM.
 
 You can attach a recurring schedule to this runbook to run it at a specific time.
 
